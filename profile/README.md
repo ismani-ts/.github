@@ -1,12 +1,17 @@
-## Hi there 👋
+# Ismani Tours & Safaris
 
-<!--
+### Frontier Travel. African Adventure. Next-Generation Exploration.
 
-**Here are some ideas to get you started:**
+We build technology and infrastructure for the future of **travel, adventure, and exploration** — starting from Tanzania.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our work sits at the intersection of:
+
+**Travel · Adventure · AI · Blockchain · Data · Geospatial · Automation · Open Technology**
+
+From **Kilimanjaro to the Serengeti**, we're building systems that make exploration more intelligent, efficient, transparent, and scalable.
+
+> **Explore further. Build beyond.**
+
+<!--Every advantage another operator develops becomes something we can study. 
+Every weakness becomes an opportunity. 
+Every capability we build becomes part of our frontier-->
