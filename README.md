@@ -11,3 +11,7 @@ Our work sits at the intersection of:
 From **Kilimanjaro to the Serengeti**, we're building systems that make exploration more intelligent, efficient, transparent, and scalable.
 
 > **Explore further. Build beyond.**
+
+<!--Every advantage another operator develops becomes something we can study. 
+Every weakness becomes an opportunity. 
+Every capability we build becomes part of our frontier-->
